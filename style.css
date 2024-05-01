@@ -1,0 +1,145 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: #5a3938;
+    align-items: center;
+}
+
+.textologo {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.links {
+    display: flex;
+    
+
+}
+
+.botao {
+    margin-left: 30px;
+}
+
+.textobotao {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.conteudo {
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    background-color: #d2d5af;
+    height: 864px;
+}
+
+.titulohome {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 35px;
+}
+
+.textotitulohome {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 40px;
+    text-decoration: underline;
+    color: #5a3938;
+}
+
+.paragrafohome {
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.textoparagrafohome {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #5a3938;
+    font-size: 25px;
+    text-align: center;
+}
+
+.boximagemhome {
+    display: flex;
+    justify-content: center;
+}
+
+.imagemhome {
+    width: 50%;
+}
+
+.conteudopag {
+    background: #d2d5af;
+    height: 1300px;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.titulopag {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 15%;
+    padding-right: 15%;
+    align-items: center;
+}
+
+h4 {
+    color: #5a3938;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+.paragrafopag {
+    padding-top: 35px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+h5 {
+    color: #5a3938;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    line-height: 40px;
+}
+
+ul {
+    margin-left: 55px;
+    line-height: 40px;
+}
+
+.imagempag {
+    width: 50%;
+    margin: 20px;
+}
+
+.botaohome {
+    display: flex;
+    width: 80px;
+    height: 80px;
+    background: #5a3938;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.textbotaohome {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #d2d5af;
+    text-decoration: none;
+}
