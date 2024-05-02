@@ -7,7 +7,7 @@
     display: flex;
     justify-content: space-between;
     padding: 20px;
-    background: #5a3938;
+    background: #13293d;
     align-items: center;
 }
 
@@ -38,7 +38,7 @@
     display: flex;
     flex-direction: column;
     padding: 25px;
-    background-color: #d2d5af;
+    background-color: #006494;
     height: 864px;
 }
 
@@ -51,10 +51,9 @@
 
 .textotitulohome {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
     font-size: 40px;
     text-decoration: underline;
-    color: #5a3938;
+    color: #e8f1f8;
 }
 
 .paragrafohome {
@@ -66,7 +65,7 @@
 
 .textoparagrafohome {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #5a3938;
+    color: #e8f1f8;
     font-size: 25px;
     text-align: center;
 }
@@ -81,8 +80,8 @@
 }
 
 .conteudopag {
-    background: #d2d5af;
-    height: 1300px;
+    background: #006494;
+    height: 1600px;
     display: flex;
     flex-direction: column;
     padding: 50px;
@@ -98,7 +97,7 @@
 }
 
 h4 {
-    color: #5a3938;
+    color: #e8f1f8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 40px;
 }
@@ -110,7 +109,7 @@ h4 {
 }
 
 h5 {
-    color: #5a3938;
+    color: #e8f1f8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     line-height: 40px;
@@ -130,7 +129,7 @@ ul {
     display: flex;
     width: 80px;
     height: 80px;
-    background: #5a3938;
+    background: #13293d;
     position: fixed;
     justify-content: center;
     align-items: center;
@@ -140,6 +139,6 @@ ul {
 
 .textbotaohome {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #d2d5af;
+    color: #e8f1f8;
     text-decoration: none;
 }
