@@ -39,7 +39,7 @@
     flex-direction: column;
     padding: 25px;
     background-color: #006494;
-    height: 898px;
+    height: 1300px;
 }
 
 .titulohome {
@@ -47,6 +47,7 @@
     width: 100%;
     justify-content: center;
     margin-top: 35px;
+    margin-bottom: 35px ;
 }
 
 .textotitulohome {
@@ -60,7 +61,7 @@
     display: flex;
     padding: 50px;
     justify-content: center;
-    margin-top: 80px;
+    margin-top: 40px;
     font-weight: bold;
 }
 
@@ -80,6 +81,21 @@
 .imagemhome {
     width: 50%;
 }
+
+.contlista {
+    display: flex;
+    justify-content: center;
+
+}
+
+.textobotaoli {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    line-height: 50px;
+}
+
 
 .conteudopag {
     background: #006494;
